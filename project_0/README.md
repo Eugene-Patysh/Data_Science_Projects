@@ -1,55 +1,34 @@
-# Проект 0. Угадай число
+# Project 0. Guess the number
 
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+## Content  
+[1. Project description](.README.md#Project-description)  
+[2. What needs to be done](.README.md#What-needs-to-be-done)  
+[3. Results](.README.md#Results)    
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+### Project description   
+Guess the number guessed by the computer in the minimum number of tries.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[to content](.README.md#Content)
 
 
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
+### What needs to be done    
+Need to write a program that guesses a number for the minimum number of tries
 
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+**Conditions:**  
+- The computer guesses an integer from 0 to 100, and we have to guess it. By “guess”, we mean “write a program that guesses the number”.
+- The algorithm considers information about whether a random number is greater than or less than the number we need.
 
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
-
-
-### Краткая информация о данных
-....
+**Quality metric**
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+Results are evaluated by the average number of attempts at 1000 repetitions
+
+**What practice**     
+- to write good code on python
+- to work with git
+- to work with vs code
 
 
-### Этапы работы над проектом  
-....
+### Results:  
+Based on the given criteria, a halving algorithm was used. For the interval of numbers from 0 to 100 the function guesses the number on average for 5 attempts.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Результаты:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Выводы:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+:arrow_up:[to content](.README.md#Content)
